@@ -8,3 +8,6 @@
 </div>  
 <div align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=956363&width=435&lines=can+i+keep+you?" alt="Typing SVG" /></a>
+<div align="center">
+<img src="https://i.pinimg.com/originals/3f/5b/cb/3f5bcb6cb126f029823af8a5fce4e54c.gif" align="center" style="width: 30%" />
+</div>  
