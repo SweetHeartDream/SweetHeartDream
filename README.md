@@ -1,7 +1,7 @@
 <div align="left">
 <img src="https://i.pinimg.com/originals/9f/da/20/9fda209e67d14fdc666ed30017bab0c8.gif" align="center" style="width: 50%" />
 </div>  <div align="left">
-<img src="https://i.pinimg.com/736x/56/d9/cb/56d9cb6811c4bb75673ac80657db50d3.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/736x/56/d9/cb/56d9cb6811c4bb75673ac80657db50d3.jpg" align="center" style="width: 30%" />
 </div>  
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B4EF&width=435&lines=%E0%AB%AE+%E2%80%A4+%E2%80%A4+%E0%BE%80%E0%BD%B2%E1%83%90;+I+love+you+bby+%2C+" alt="Typing SVG" /></a>
