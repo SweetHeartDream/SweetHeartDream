@@ -6,3 +6,5 @@
 <div align="right">
 <img src="https://i.pinimg.com/originals/d0/16/05/d01605d1db1a4ab0e6f881fd0500c7bc.gif" align="center" style="width: 40%" />
 </div>
+<div align="right">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=956363&width=435&lines=My+heart+recognized+you+before+my+eyes+did" alt="Typing SVG" /></a>
