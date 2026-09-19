@@ -2,4 +2,4 @@
 <img src="https://i.pinimg.com/originals/fc/e7/d1/fce7d157208eb52b78485a8b3155bc7b.gif" align="center" style="width: 80%" />
 </div>  
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B4EF&width=435&lines=%E0%AB%AE+%E2%80%A4+%E2%80%A4+%E0%BE%80%E0%BD%B2%E1%83%90;+If+I+know+what+love+is%2C+it+is+because+of+you" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B4EF&width=435&lines=%E0%AB%AE+%E2%80%A4+%E2%80%A4+%E0%BE%80%E0%BD%B2%E1%83%90;+I+love+you+bby+%2C+" alt="Typing SVG" /></a>
