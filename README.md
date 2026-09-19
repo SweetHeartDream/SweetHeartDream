@@ -6,7 +6,7 @@
 <div align="right">
 <img src="https://i.pinimg.com/originals/e6/3f/b0/e63fb0f0f2a2e9561df5f6f3ce9ab646.gif" align="center" style="width: 55%" />
 </div>  <div align="left">
-<img src="https://i.pinimg.com/736x/74/9c/24/749c2480e10f2a4a8ba4a0c512270c72.jpg" align="center" style="width: 30%" />
+<img src="https://i.pinimg.com/736x/78/e1/cb/78e1cb7c6755d2559e9a6a8023095b84.jpg" align="center" style="width: 20%" />
 </div>  
 <div align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=956363&width=435&lines=can+i+keep+you?" alt="Typing SVG" /></a>
