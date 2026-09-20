@@ -9,5 +9,5 @@
 <div align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=956363&width=435&lines=can+i+keep+you?" alt="Typing SVG" /></a>
 <div align="center">
-<img src="https://i.pinimg.com/originals/21/af/55/21af5581d2efe39b0e2ad2321d7dcf54.gif" align="center" style="width: 100% />
-</div>
+<img src="https://i.pinimg.com/originals/ae/fa/08/aefa08491c74e21b6d595c4d2f2edfaf.gif" align="center" style="width: 100%" />
+</div>  
